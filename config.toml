@@ -7,7 +7,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 [YouTube-Extended]
 app-name = "YouTube"
-rv-brand = "YouTube"
+rv-brand = "ReVanced Extended"
 patches-source = "YT-Advanced/ReX-patches"
 integrations-source = "YT-Advanced/ReX-integrations"
 cli-source = "j-hc/revanced-cli"
