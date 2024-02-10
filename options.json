@@ -1,15 +1,1 @@
-[
-  {
-    "patchName": "Custom branding",
-    "options": [
-      {
-        "key": "iconPath",
-        "value": "https://icons.iconarchive.com/icons/dtafalonso/android-l/512/Youtube-icon.png"
-      },
-      {
-        "key": "appName",
-        "value": "YouTube"
-      }
-    ]
-  }
-]
+
