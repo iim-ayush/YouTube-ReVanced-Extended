@@ -12,6 +12,7 @@ Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube
  <li> Optimize APKs and modules for size</li>
  <li> Modules</li>
     <ul>
+     <li> original YouTube icon and name</li>
      <li> recompile invalidated odex for faster usage</li>
      <li> receive updates from Magisk app</li>
      <li> do not break safetynet or trigger root detections</li>
