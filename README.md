@@ -32,16 +32,3 @@ Note that the <a href="../../actions/workflows/ci.yml">CI workflow</a> is schedu
  * Grab your modules and APKs from [releases](../../releases)
 
 also see here [`CONFIG.md`](./CONFIG.md)
-
-## Building Locally
-### On Termux
-```console
-bash <(curl -sSf https://raw.githubusercontent.com/MANCrimSon/YouTube-ReVanced-Extended/main/build-termux.sh)
-```
-
-### On Desktop
-```console
-$ git clone https://github.com/MANCrimSon/YouTube-ReVanced-Extended
-$ cd YouTube-ReVanced-Extended
-$ ./build.sh
-```
