@@ -1,4 +1,4 @@
-# YouTube ReVanced Extended Magisk Module
+# YouTube ReVanced Extended Magisk/KernelSU Module
 
 Get the [latest CI release](https://github.com/MANCrimSon/YouTube-ReVanced-Extended/releases).
 
