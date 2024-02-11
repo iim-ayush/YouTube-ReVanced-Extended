@@ -2,7 +2,7 @@
 
 Get the [latest CI release](https://github.com/MANCrimSon/YouTube-ReVanced-Extended/releases).
 
-Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube from Play Store. 
+Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube from Google Play. 
 
 <details><summary><big>Features</big></summary>
 <ul>
