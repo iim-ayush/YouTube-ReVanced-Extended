@@ -6,7 +6,7 @@ Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube
 
 <details><summary><big>Features</big></summary>
 <ul>
- <li>Support all present and future <a href="https://github.com/YT-Advanced/ReX-patches">YouTube ReVanced Extended</a> app</li>
+ <li> <a href="https://github.com/YT-Advanced/ReX-patches">Patches</a> app</li>
  <li> Can build Magisk modules and non-root APKs</li>
  <li> Updated daily with the latest versions of apps and patches</li>
  <li> Optimize APKs and modules for size</li>
