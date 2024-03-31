@@ -1,13 +1,151 @@
-        
 [
+  {
+    "patchName": "Custom package name",
+    "options": [
+      {
+        "key": "PackageNameYouTube",
+        "value": "anddea.youtube"
+      },
+      {
+        "key": "PackageNameYouTubeMusic",
+        "value": "anddea.youtube.music"
+      }
+    ]
+  },
+  {
+    "patchName": "Overlay buttons",
+    "options": [
+      {
+        "key": "OutlineIcon",
+        "value": true
+      },
+      {
+        "key": "BottomMargin",
+        "value": "0.0dip"
+      }
+    ]
+  },
+  {
+    "patchName": "Shorts overlay buttons",
+    "options": [
+      {
+        "key": "IconType",
+        "value": "TikTok"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom double tap length",
+    "options": [
+      {
+        "key": "DoubleTapLengthArrays",
+        "value": "3, 5, 10, 15, 20, 30, 60, 120, 180"
+      }
+    ]
+  },
+  {
+    "patchName": "Theme",
+    "options": [
+      {
+        "key": "DarkThemeBackgroundColor",
+        "value": "#FF010101"
+      },
+      {
+        "key": "AdvancedDarkThemeBackgroundColor",
+        "value": "#FF252A3A"
+      },
+      {
+        "key": "LightThemeBackgroundColor",
+        "value": "#FFFFFFFF"
+      },
+      {
+        "key": "AdvancedLightThemeBackgroundColor",
+        "value": "#FFF2F8FF"
+      },
+      {
+        "key": "SeekbarBackgroundColor",
+        "value": "#FFFF0000"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding heading",
+    "options": [
+      {
+        "key": "header",
+        "value": "yt_premium_wordmark_header"
+      }
+    ]
+  },
   {
     "patchName": "Custom branding name YouTube",
     "options": [
       {
         "key": "AppName",
-        "value": "YouTube"
+        "value": "You&Me"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding icon YouTube",
+    "options": [
+      {
+        "key": "AppIcon",
+        "value": "Revancify Blue"
+      }
+    ]
+  },
+  {
+    "patchName": "SponsorBlock",
+    "options": [
+      {
+        "key": "OutlineIcon",
+        "value": true
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding name Reddit",
+    "options": [
+      {
+        "key": "AppName",
+        "value": "RVX Reddit"
+      }
+    ]
+  },
+  {
+    "patchName": "Change package name",
+    "options": [
+      {
+        "key": "PackageNameReddit",
+        "value": "com.reddit.frontpage.rvx"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding name YouTube Music",
+    "options": [
+      {
+        "key": "AppNameNotification",
+        "value": "ReVanced Extended Music"
+      },
+      {
+        "key": "AppNameLauncher",
+        "value": "You&Music"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding icon YouTube Music",
+    "options": [
+      {
+        "key": "SplashHeaderIcon",
+        "value": true
+      },
+      {
+        "key": "AppIcon",
+        "value": "Revancify Blue"
       }
     ]
   }
 ]
-        
