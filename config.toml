@@ -8,7 +8,7 @@ integrations-version = "v0.150.0-dev.4"
 
 [YouTube-Extended]
 app-name = "YouTube"
-rv-brand = "YouMe"
+rv-brand = "You&Me"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 cli-source = "j-hc/revanced-cli"
@@ -20,8 +20,8 @@ module-prop-name = "yt-rvx"
 
 [Music]
 build-mode = "apk"
-app-name = "YouMusic"
-rv-brand = "ReVanced Extended"
+app-name = "YouTube Music"
+rv-brand = "You&Music"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 cli-source = "j-hc/revanced-cli"
