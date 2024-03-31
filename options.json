@@ -82,7 +82,7 @@
     "options": [
       {
         "key": "AppName",
-        "value": "You&Me"
+        "value": "You & Me"
       }
     ]
   },
@@ -127,7 +127,7 @@
     "options": [
       {
         "key": "AppNameNotification",
-        "value": "ReVanced Extended Music"
+        "value": "You & Music"
       },
       {
         "key": "AppNameLauncher",
